@@ -1,0 +1,9 @@
+{
+  "name": "fairyrings",
+  "version": "1.0.0",
+  "description": "Adds a search field to the fairy ring interface.",
+  "dependencies": ["prettyui"],
+  "requiredPermissions": [],
+  "optionalPermissions": [],
+  "urls": {}
+}
